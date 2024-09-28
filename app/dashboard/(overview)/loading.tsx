@@ -5,3 +5,5 @@ export default function Loading() {
         <DashboardSkeleton/>
     );
 }
+
+export const experimental_ppr = true;
